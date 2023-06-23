@@ -1,2 +1,5 @@
-# html5-basics
-serindo academy html5-basics
+# Learn the Basics of HyperText Markup Language (HTML)
+
+## Objectives
+
+- ▢ Mengulas dasar-dasar HTML.
