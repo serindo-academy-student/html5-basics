@@ -35,3 +35,10 @@ git push origin
 
 ```
 
+Materi & Referensi tambahan :
+- :notebook_with_decorative_cover:
+[Belajar HTML5 di tutorialspoint](https://www.tutorialspoint.com/html/index.htm)
+- :notebook_with_decorative_cover:
+[Belajar HTML5 di w3schools](https://www.w3schools.com/html)
+- :notebook_with_decorative_cover:
+[Belajar HTML dari dasar di Sekolah koding  ](https://app.sko.dev/archived/kelas/belajar-html-dari-dasar)
